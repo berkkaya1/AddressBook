@@ -1,0 +1,25 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@if (TempData["LoggedInUsername"] !=null)
+
+{
+    <div  class="text-center">Merhaba @TempData["LoggedInUsername"]</div>
+}
+
+
+<div class="row">
+    <div  class="col-md-4">
+    <button type="button"  class="btn btn-lg btn-info"
+                asp-controller="Home" asp-action="AddAddress">
+        ADRES EKLE
+    </button>
+
+
+        <a type="button" class="btn btn-lg btn-success"
+           asp-controller="Home" asp-action="AddAddress">ADRES EKLE</a>
+
+    </div>
+    
+</div>

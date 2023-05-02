@@ -1,0 +1,14 @@
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\bin\Debug\net6.0\AddressBookEL.deps.json
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\bin\Debug\net6.0\AddressBookEL.runtimeconfig.json
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\bin\Debug\net6.0\AddressBookEL.dll
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\bin\Debug\net6.0\AddressBookEL.pdb
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\AddressBookEL.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\AddressBookEL.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\AddressBookEL.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\AddressBookEL.AssemblyInfo.cs
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\AddressBookEL.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\AddressBookEL.dll
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\refint\AddressBookEL.dll
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\AddressBookEL.pdb
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\AddressBookEL.genruntimeconfig.cache
+\\Mac\Home\Desktop\AddressBook503-master\AddressBookEL\obj\Debug\net6.0\ref\AddressBookEL.dll
